@@ -4,8 +4,6 @@
 **MrCoderBoy345/MrCoderBoy345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a self-taught developer based in Georgia, USA
-
 Skills: NodeJS / Flutter / Java / C# / SQL / Github Actions
 
 - 🔭 I’m currently working on a match scouting app for FRC.
