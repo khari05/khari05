@@ -7,7 +7,7 @@
 Skills: NodeJS / Flutter / Java / C# / SQL / Github Actions
 
 - 🔭 I’m currently working on a match scouting app for FRC.
-- 🌱 I’m currently learning Docker.
+- 🌱 I’m currently learning Docker & React.
 - 🤖 I'm currently a programmer on FRC team 7451.
 <!--
 - 👯 I’m looking to collaborate on ...
