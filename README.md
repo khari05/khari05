@@ -18,5 +18,5 @@ Skills: NodeJS / Flutter / Java / C# / SQL / Github Actions
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCoderBoy345&show_icons=true&hide_border=true&theme=tokyonight)
-![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCoderBoy345&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khari05&show_icons=true&hide_border=true&theme=tokyonight)
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khari05&layout=compact&theme=tokyonight)
