@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <!--
-**MrCoderBoy345/MrCoderBoy345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**khari05/khari05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Skills: NodeJS / Flutter / Java / C# / SQL / Github Actions
+Skills: NodeJS / Flutter / Java / C# / SQL / Github Actions / Docker
 
 - 🔭 I’m currently working on a match scouting app for FRC.
-- 🌱 I’m currently learning Docker & React.
+- 🌱 I’m currently learning React.
 - 🤖 I'm currently a programmer on FRC team 7451.
 <!--
 - 👯 I’m looking to collaborate on ...
