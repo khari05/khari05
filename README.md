@@ -9,7 +9,7 @@ Skills: NodeJS / Flutter / Python / Java / C# / SQL / CSS / Github Actions / Doc
 
 
 - 🤖 I'm currently a programmer on FRC team 7451.
-- 📌 Below are a few projects I'm proud of.
+- 📌 A few projects I'm proud of are listed below.
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
