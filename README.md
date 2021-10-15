@@ -5,9 +5,11 @@
 -->
 I spend way too much time here.
 
-Skills: NodeJS / Flutter / Java / C# / SQL / CSS / Github Actions / Docker
+Skills: NodeJS / Flutter / Python / Java / C# / SQL / CSS / Github Actions / Docker
 
-<!-- - 🤖 I'm currently a programmer on FRC team 7451. -->
+
+- 🤖 I'm currently a programmer on FRC team 7451.
+- 📌 Below are a few projects I'm proud of.
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
