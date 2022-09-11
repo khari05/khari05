@@ -5,12 +5,11 @@
 -->
 I spend way too much time here.
 
-Skills: NodeJS / Flutter / Python / Java / C# / SQL / CSS / Github Actions / Docker
+Skills: NodeJS / Flutter / Python / Java / SQL / CSS / Github Actions / Docker
 
-
-- 🤖 I'm currently a programmer on FRC team 7451.
 - 📌 A few projects I'm proud of are listed below.
 <!--
+- 🤖 I'm currently a programmer on FRC team 7451.
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -22,4 +21,3 @@ Skills: NodeJS / Flutter / Python / Java / C# / SQL / CSS / Github Actions / Doc
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khari05&show_icons=true&hide_border=true&theme=tokyonight)
-![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khari05&layout=compact&theme=tokyonight)
