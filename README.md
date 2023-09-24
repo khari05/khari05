@@ -5,7 +5,7 @@
 -->
 I spend way too much time here.
 
-Skills: NodeJS / Flutter / Python / Java / SQL / CSS / Github Actions / Docker
+Skills: Embedded Rust (`#![no_std]`) / NodeJS / Flutter / Python / Java / SQL / CSS / Github Actions / Docker
 
 - 📌 A few projects I'm proud of are listed below.
 <!--
@@ -22,4 +22,4 @@ Skills: NodeJS / Flutter / Python / Java / SQL / CSS / Github Actions / Docker
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khari05&show_icons=true&hide_border=true&theme=midnight-purple)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khari05&show_icons=true&hide_border=true&theme=midnight-purple&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khari05&show_icons=true&hide_border=true&theme=midnight-purple&langs_count=7)
